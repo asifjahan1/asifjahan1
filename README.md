@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifjahan1" alt="asifjahan1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/7ea94577551f48e" target="blank"><img src="https://img.shields.io/twitter/follow/7ea94577551f48e?logo=twitter&style=for-the-badge" alt="7ea94577551f48e" /></a> </p>
-
 - 🔭 I’m currently working on [Flutter News Reader](https://github.com/asifjahan1/Flutter-News-Reader/tree/master)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, iOS**
 
 - 📫 How to reach me **asifjahan307@gmail.com**
 
