@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://media.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="100%"></p>
 <h1 align="center">Hi 👋, I'm Md. Asif Jahan</h1>
-<h3 align="center">A passionate Flutter Developer from Bangladesh.</h3>
+<h3 align="center">A self-taught programmer with an unwavering commitment, starting at a little age.</h3>
 <img align="right" alt="matrix" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
