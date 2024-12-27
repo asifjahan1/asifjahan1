@@ -5,7 +5,7 @@
 <img align="right" alt="matrix" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on **Cross-platform Software**<br>🌱 I’m currently working on **Flutter**<br>💬 Ask me about **Android, iOS**<br>📫 Reach me **asifjahan307@gmail.com**<br>💬 All of my details **[https://asifjahan1.github.io/](https://asifjahan1.github.io/)**<br>📄 Know about my experiences [https://drive.google.com/file/d/1QNy58TPz3lNTdCmsTvSq3EpXpWmAoEv2/view?usp=sharing](https://drive.google.com/file/d/1QNy58TPz3lNTdCmsTvSq3EpXpWmAoEv2/view?usp=sharing)<br>⚡ Fun fact **Stop Trusting Pretty Faces**
+🔭 I’m currently working on **Cross-platform Software**<br>🌱 I’m currently working on **Flutter**<br>🧠 I’m currently learning **Python, Machine Learning**<br>💬 Ask me about **Android, iOS**<br>📫 Reach me **asifjahan307@gmail.com**<br>💬 All of my details **[https://asifjahan1.github.io/](https://asifjahan1.github.io/)**<br>📄 Know about my experiences [https://drive.google.com/file/d/1QNy58TPz3lNTdCmsTvSq3EpXpWmAoEv2/view?usp=sharing](https://drive.google.com/file/d/1QNy58TPz3lNTdCmsTvSq3EpXpWmAoEv2/view?usp=sharing)<br>⚡ Fun fact **Stop Trusting Pretty Faces**
 
 
 ## 🌐 Socials:
